@@ -1,0 +1,4 @@
+Once again, before the actual patient's death, a divide by zero error is
+triggered, and I thusly cannot access the autopsy report. 
+
+A picture of the error report is attached.

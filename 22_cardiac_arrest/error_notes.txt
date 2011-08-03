@@ -1,0 +1,4 @@
+In the HumMod version of this lab, a divide by zero error occurs before 30 seconds have
+passed.
+
+A screencap of this error is in the lab folder.

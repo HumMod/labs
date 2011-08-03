@@ -1,0 +1,3 @@
+An immediate divide by zero error crashes this lab attempt.
+
+An error report screencap is attached.

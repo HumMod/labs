@@ -1,0 +1,6 @@
+Subject is dying rapidly before the time limit, but does not actually reach 
+death under the conditions of the lab before a divide by zero error crashes
+the executable.
+
+Can't give you an autopsy report on this one as a result, but a screencap of
+the error report in question is in this folder.
